@@ -2,17 +2,21 @@ body {
     background-color: #ffffff;
 }
 
-footer {
-    background-color: #2e2f42;
+.foter style{ background-color: #2e2f42 ;
+
+
+
+
+
 }
 
 .logotype {
     font-size: 18px;
     font-style: normal;
-    font-weight: 800px;
-    line-height: 1.17px;
-    letter-spacing: 0.03px;
+    font-weight: 800;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    ;
+ 
 }
