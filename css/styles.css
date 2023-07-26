@@ -2,7 +2,8 @@ body {
     background-color: #ffffff;
 }
 
-.foter style{ background-color: #2e2f42 ;
+.foter style {
+    background-color: #2e2f42;
 }
 
 .logotype {
@@ -14,26 +15,34 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.sectionone{background-color: #2e2f42;
+
+.sectionone {
+    background-color: #2e2f42;
 }
-.titleone{font-size: 56px;
+
+.titleone {
+    font-size: 56px;
     font-style: normal;
-    line-height: 1.07; 
+    line-height: 1.07;
     letter-spacing: 0.02em;
-text-align: center;
-color: #ffffff;}
-.button:hover:focus{background-color: #4D5AE5;
+    text-align: center;
+    color: #ffffff;
+}
+
+.button {
+    background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-     
     cursor: pointer;
+}
 
+.button:hover {
+    background-color: #404BBF
+}
 
-    
-
-    
-
+.button:focus {
+    background-color: #404BBF
 }
