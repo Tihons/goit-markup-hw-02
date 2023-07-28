@@ -92,7 +92,7 @@ body {
     background-color: #ffffff;
 }
 
-.link {
+.link{
     text-decoration: none;
     color: #ffffff;
 }
@@ -110,3 +110,4 @@ body {
     letter-spacing: 0.02em;
     color: #F4F4FD;;
 }
+.span{color: #f4f4fd;}
