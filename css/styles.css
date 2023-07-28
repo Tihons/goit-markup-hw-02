@@ -2,7 +2,7 @@ body {
     background-color: #ffffff;
 }
 
-.foter style {
+.foterstyle {
     background-color: #2e2f42;
 }
 
@@ -92,13 +92,21 @@ body {
     background-color: #ffffff;
 }
 
-.link {text-decoration: none;
-color: #ffffff;}
+.link {
+    text-decoration: none;
+    color: #ffffff;
+}
 
 
 .linktwo {
-    font-weight:500;
+    font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.paragraph {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;;
 }
