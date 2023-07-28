@@ -46,7 +46,8 @@ body {
 .button:focus {
     background-color: #404BBF
 }
-.titletwo{
+
+.titletwo {
 
     font-weight: 500;
     font-size: 20px;
@@ -54,10 +55,25 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.listparagraph{ line-height: 1.5;
+
+.titlethree {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
-color: #434455;}
-.sectionthree{
+    color: #2e2f42;
+}
+
+
+
+
+.listparagraph {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.sectionthree {
 
     font-size: 36px;
     line-height: 1.11;
@@ -65,10 +81,15 @@ color: #434455;}
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.sectionfour{background-color: #F4F4FD}
-.listitemtwo{background-color: #ffffff;}
-.titlethree{font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;}
-    .link{text-decoration: none}
+
+.sectionfour {
+    background-color: #F4F4FD
+}
+
+.listitemtwo {
+    background-color: #ffffff;
+}
+
+.link {
+    text-decoration: none
+}
