@@ -109,15 +109,46 @@ body {
 .span {
     color: #f4f4fd;
 }
-.link{text-decoration: none;}
-.list{ list-style: none;}
-.spantwo{color: #2e2f42;}
-.headerlink{font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #2e2f42;
-text-decoration: none;
 
-
+.list {
+    list-style: none;
 }
+
+.spantwo {
+    color: #2e2f42;
+}
+
+.headerlink {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.headerlink:hover {
+    color: #404bbf;
+}
+
+.headerlink:focus {
+    color: #404bbf;
+}
+
+.address {
+    font-style: normal;
+}
+
+
+.link {
+    text-decoration: none;
+}
+.mail{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.mail:hover{
+    color: #404bbf;
+}
+.mail:focus{color: #404bbf}
