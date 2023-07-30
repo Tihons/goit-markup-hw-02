@@ -2,6 +2,7 @@
 .body {
     background-color: #FFFFFF;
     color: #434455;
+    font-family: "Roboto",sans-serif;
 }
 
 .foterstyle {
@@ -16,6 +17,7 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
 }
 
 .sectionone {
@@ -39,6 +41,7 @@
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+    font-family: "Roboto", sans-serif;
 }
 
 .button:hover {
@@ -168,6 +171,7 @@
     color: #4d5ae5;
     background-color: #F4F4FD;
     cursor: pointer;
+    font-family: "Roboto",sans-serif;
 }
 
 .buttontwo:hover {
